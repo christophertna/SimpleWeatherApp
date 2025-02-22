@@ -1,23 +1,23 @@
 # Simple Weather App
-A simple weather app project, coded with Javascript, HTML and CSS
+A simple weather app project, coded with Javascript, HTML and CSS using <i>Visual Studio Code</i>.
 This app fetches real-time weather data using the <i>OpenWeatherMap</i> API and displays it in a user-friendly interface.
 
 
 # Features
-Real-Time Weather Data: Get current weather information for any city worldwide.
+* Real-Time Weather Data: Get current weather information for any city worldwide.
 
-Dynamic Icons: Weather conditions are represented with animated GIFs.
+* Dynamic Icons: Weather conditions are represented with animated GIFs.
 
-Responsive Design: Works seamlessly on both desktop and mobile devices.
+* Responsive Design: Works seamlessly on both desktop and mobile devices.
 
-Humidity & Wind Speed: Displays additional weather details like humidity and wind speed.
+* Humidity & Wind Speed: Displays additional weather details like humidity and wind speed.
 
 
 # Technologies Used
-HTML: Structure of the application.
+- HTML: Structure of the application.
 
-CSS: Styling and responsive design.
+- CSS: Styling and responsive design.
 
-JavaScript: Fetching and displaying weather data.
+- JavaScript: Fetching and displaying weather data.
 
-OpenWeatherMap API: Real-time weather data.
+- <i>OpenWeatherMap</i> API: Real-time weather data.
